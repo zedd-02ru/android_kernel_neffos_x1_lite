@@ -1,4 +1,4 @@
-Device configuration for TP-LINK Neffos X1 Lite (TP904A)
+Device TP-LINK Neffos X1 Lite (TP904A)
 =====================================
 Basic   | Spec Sheet
 -------:|:-------------------------
