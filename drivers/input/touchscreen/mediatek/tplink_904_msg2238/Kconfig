@@ -1,0 +1,17 @@
+#
+# Touchscreen driver configuration
+#
+if TOUCHSCREEN_MTK_MSG2238
+
+config UPDATE_FIRMWARE_BY_SW_ID
+	tristate "mstar touchscreens"
+	default n
+	help
+	  Say Y here if you want to update firmware when power on.
+
+	  If unsure, say N.
+
+	  To compile this driver as a module, choose M here: the
+	  module will be called.
+
+endif
