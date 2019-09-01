@@ -1,2 +1,4 @@
-# android_kernel_neffos_x1_lite
-# android_kernel_neffos_x1_lite
+Kernel Neffos x1 lite
+mt6750
+RAM 2G
+FLASH 32G
